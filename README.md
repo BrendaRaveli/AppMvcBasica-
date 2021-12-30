@@ -1,2 +1,2 @@
 # AppMvcBasica-
-Desenvolvimento de um aplicação MVC core simples
+Desenvolvimento de uma aplicação asp.net MVC core simples
