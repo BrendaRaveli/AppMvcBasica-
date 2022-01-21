@@ -1,10 +1,10 @@
 ﻿@model AppMVCBasica.Models.Produto
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Novo";
 }
 
-<h1>Create</h1>
+<h1>Novo Produto</h1>
 
 <h4>Produto</h4>
 <hr />
@@ -13,7 +13,7 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="FornecedorId" class="control-label"></label>
+                <label asp-for="FornecedorId" class="control-label">Fornecedor</label>
                 <select asp-for="FornecedorId" class ="form-control" asp-items="ViewBag.FornecedorId"></select>
             </div>
             <div class="form-group">
@@ -37,9 +37,12 @@
                 <span asp-validation-for="Valor" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="DataCadastro" class="control-label"></label>
-                <input asp-for="DataCadastro" class="form-control" />
+                <label asp-for="DataCadastro" class="control-label">Data do cadastro</label>
+                <input asp-for="DataCadastro" class="form-control"/>
                 <span asp-validation-for="DataCadastro" class="text-danger"></span>
+                @*<label asp-for="TipoFornecedor" class="control-label">Tipo de fornecedor</label><br />*@
+
+
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
@@ -47,14 +50,14 @@
                 </label>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Criar" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">De volta à lista</a>
 </div>
 
 @section Scripts {

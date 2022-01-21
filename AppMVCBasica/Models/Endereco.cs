@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AppMVCBasica.Models
 {
     public class Endereco : Entity
-    //Eendereco herda de entidade
+    //Endereco herda de entidade
     //Endereco pertence a um fornecedor apenas com todos os dados a baixo.
     {
         public Guid FornecedorId { get; set; }

@@ -26,7 +26,7 @@ namespace AppMVCBasica.Controllers
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Produtos.Include(p => p.Fornecedor);
-            // aqui setou um contexto de retorno da query. Pegou o contexto, os produtos e incluiu o fornecedor na relação. Para possui dados tanto de produto quanto fornecedor
+            // aqui seta um contexto de retorno da query. Pegou o contexto, os produtos e incluiu o fornecedor na relação. Para possui dados tanto de produto quanto fornecedor
             return View(await applicationDbContext.ToListAsync());
             //Aqui ele apresenta o retorno do contexto e chama o Tolist
             //O método ToList tem como objetivo materializar uma lista de elementos em memória. Para o método ser executado assincronamente deve ser chamado com await antes dele e o método que o chama precisa estar marcado como async.

@@ -61,11 +61,10 @@ namespace AppMVCBasica.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Fornecedor fornecedor)
-        {
-            //recebe o fornecedor
+        {//recebe o fornecedor
             if (ModelState.IsValid)
             {
-                //adicona ao contexto
+                //faz a validação e adiciona ao contexto
                 _context.Add(fornecedor);
 
                 // Salva de forma assíncrona todas as alterações feitas neste contexto no banco de dados subjacente.

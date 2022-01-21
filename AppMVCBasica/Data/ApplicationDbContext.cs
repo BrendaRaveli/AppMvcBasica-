@@ -24,5 +24,5 @@ namespace AppMVCBasica.Data
 }
 
 
-// Para criação das tabelas ou atualização de acordo com as migrations que possuo, é necessario informar no package manage console o comando -> Update-Database -verbose
+// Para criação das tabelas ou atualização de acordo com as migrations que possuo é necessario informar no package manage console o comando -> Update-Database -verbose
 //Comando para: adicionar uma migration -> add-migration "nome" -Verbose . Remover -> Remove-Migration . Caso apresenter erro de acesso negado, séra necessario abrir o vs como ADM.

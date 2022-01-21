@@ -14,7 +14,7 @@ namespace AppMVCBasica.Models
         {
             Id = Guid.NewGuid();
         }
-        //Este ID séra para todos
+        //Este ID sera para todos
         public Guid Id { get; set; }
     }
 }
