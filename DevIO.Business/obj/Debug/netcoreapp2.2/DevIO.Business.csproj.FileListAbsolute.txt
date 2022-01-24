@@ -1,0 +1,10 @@
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.AssemblyReference.cache
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

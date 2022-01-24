@@ -1,0 +1,13 @@
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Materias de estudos\Projetos\Funcionando\AppMVCBasica\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
